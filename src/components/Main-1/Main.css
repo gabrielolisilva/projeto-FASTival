@@ -2,7 +2,11 @@
   margin-top: 100px;
 }
 
+.main1 > h2 {
+  font-size: 2rem;
+}
+
 .main1 > img {
-  width: 1500px;
+  width: 100%;
   margin-top: 70px;
 }
