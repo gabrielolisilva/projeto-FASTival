@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 34px;
+  padding: 0px 50px 34px 50px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.404);
+}
+
+.botoes {
+  display: flex;
+  gap: 45px;
+}
+
+.botoes > h4:first-child {
+  background-color: #2eafe6;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+.botoes > h4:last-child {
+  background-color: #e6902e;
+  padding: 6px;
+  border-radius: 5px;
+}

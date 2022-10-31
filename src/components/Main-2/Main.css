@@ -1,0 +1,23 @@
+.main2 {
+  margin-top: 100px;
+}
+
+.quadro {
+  display: flex;
+  margin-top: 100px;
+}
+
+.elementoEsquerda {
+  width: 486px;
+  height: 500px;
+  background-color: #2eafe6;
+  border-radius: 20px 0px 0px 20px;
+  text-align: center;
+}
+
+.elementoDireita {
+  width: 1146px;
+  height: 500px;
+  background-color: #e6902e;
+  border-radius: 0px 20px 20px 0px;
+}
